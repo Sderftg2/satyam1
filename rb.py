@@ -3,7 +3,7 @@ import datetime
 from telegram import Update
 from telegram.ext import Application, CommandHandler, CallbackContext
 
-TELEGRAM_BOT_TOKEN = '7471575024:AAGdqfubiOpR22yowtenP9iYjPO3M9O3Fv8'
+TELEGRAM_BOT_TOKEN = '7906562324:AAGgO32I3faiAwHmZyw8g4-Qo0mT3S-PmdM'
 ADMIN_USER_ID = 5142603617
 USERS_FILE = 'users.txt'
 LOG_FILE = 'log.txt'
